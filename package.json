@@ -6,7 +6,7 @@
   "scripts": {
     "js": "node main.js",
     "py": "python -m py.server",
-    "start": "npm-run-all --parallel py js"
+    "start": "npm-run-all --silent --parallel py js"
   },
   "repository": {
     "type": "git",
