@@ -4,7 +4,9 @@
   "description": "A bridge between node to python",
   "main": "main.js",
   "scripts": {
-    "js": "node main.js"
+    "js": "node main.js",
+    "py": "python -m py.server",
+    "start": "npm-run-all --parallel py js"
   },
   "repository": {
     "type": "git",
