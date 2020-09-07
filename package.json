@@ -1,0 +1,30 @@
+{
+  "name": "pyjs",
+  "version": "1.0.0",
+  "description": "A bridge between node to python",
+  "main": "main.js",
+  "scripts": {
+    "js": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswasif007/pyjs.git"
+  },
+  "keywords": [
+    "python",
+    "javascript",
+    "bridge",
+    "pyjs",
+    "zerorpc"
+  ],
+  "author": "Ahmed Sayeed Wasif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aswasif007/pyjs/issues"
+  },
+  "homepage": "https://github.com/aswasif007/pyjs#readme",
+  "dependencies": {
+    "npm-run-all": "^4.1.5",
+    "zerorpc": "^0.9.8"
+  }
+}
