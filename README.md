@@ -1,3 +1,5 @@
+<img src="./icon.svg" width="200" height="200">
+
 # pyjs
 A bridge from node to python
 
